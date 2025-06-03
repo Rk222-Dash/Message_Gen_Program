@@ -1,0 +1,1 @@
+basic javaScript program to generate random messages
