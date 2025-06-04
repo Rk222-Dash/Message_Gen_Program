@@ -1,1 +1,1 @@
-basic javaScript program to generate random messages
+basic javaScript program to generate random responses to the question "what will it take to finish this porject?"
